@@ -1,8 +1,7 @@
 # predicting_house_prices
 
+Date Created
 
-<h2>Date created</h2>
-<br>
 17th of August 2019
 
 Project Title
